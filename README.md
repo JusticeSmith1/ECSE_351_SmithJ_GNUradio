@@ -13,6 +13,8 @@ This code attempts to recreate the phase lab by generating two independent signa
 - Variable phasor update time in GUI
 - Variable number of points in phasor view that mimics persistance (not changable in GUI)
 
+- Work in Progress: Synchronization button
+
 ### Results
 Results will vary with all the parameters, but this is one of the results where a Lissajous figure has formed.
 ![Image](ecse351_gnuRadioOutput.png)

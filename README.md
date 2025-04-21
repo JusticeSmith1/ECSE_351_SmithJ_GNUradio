@@ -4,7 +4,9 @@
 This assignment aims to recreate the Spring 2025 ECSE 351 Phase Lab in GNU Radio, including a GUI with options to change the amplitude, frequency, and phase of each signal. Both the time representation and phasor view will included.
 This code attempts to recreate the phase lab by generating two independent signals, with variables accessible through the GUI. The multiplication of the signals is placed in a time domain view, and the two signals are also implemented in a phasor view with one signal being the in phase component and the other being the quadrature component.
 
-
+### How to Use
+Persistance is set by modifying the persistance variable found near the GUI Constellation Sink
+Once the GUI is running, moving the sliders will vary the parameters
 
 ### Features
 - Time domain view of multiplied signals

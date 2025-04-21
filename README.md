@@ -6,6 +6,7 @@ This code attempts to recreate the phase lab by generating two independent signa
 
 ### How to Use
 Persistance is set by modifying the persistance variable found near the GUI Constellation Sink
+
 Once the GUI is running, moving the sliders will vary the parameters
 
 ### Features

@@ -9,7 +9,8 @@ This code attempts to recreate the phase lab by generating two independent signa
 - Phasor view of multiplied signals
 - Variable amplitude, frequency, and phase of each signal within GUI
 - Variable phasor update time in GUI
-- Variable number of points in phasor view (mimics persistance)
+- Variable number of points in phasor view that mimics persistance (not changable in GUI)
 
 ### Results
 Results will vary with all the parameters, but this is one of the results where a Lissajous figure has formed.
+![Image](ecse351_gnuRadioOutput.png)
